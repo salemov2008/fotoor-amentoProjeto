@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="052d487c-876d-47d2-97a0-fc8094037b21" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/fotoorçamentoProjeto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fotoorçamentoProjeto.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="052d487c-876d-47d2-97a0-fc8094037b21" name="Changes" comment="alterações" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/salemov2008/fotoor-amentoProjeto.git",
+    "accountId": "647d32fb-fb28-4ec7-ae4c-63cab9f24c1f"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -64,12 +66,25 @@
       <option name="presentableId" value="Default" />
       <updated>1737928252891</updated>
       <workItem from="1737928254401" duration="12173000" />
-      <workItem from="1737946291810" duration="1220000" />
+      <workItem from="1737946291810" duration="1541000" />
     </task>
+    <task id="LOCAL-00001" summary="alterações">
+      <option name="closed" value="true" />
+      <created>1737947557279</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737947557279</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="alterações" />
+    <option name="LAST_COMMIT_MESSAGE" value="alterações" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/fotoorçamentoProjeto$ProgramaOrcaFotos.coverage" NAME="ProgramaOrcaFotos Coverage Results" MODIFIED="1737946694890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
